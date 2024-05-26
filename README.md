@@ -1,6 +1,6 @@
 # Sign in and Sign up forms built with customtkinter
 
-Inspired by [customtkinter-examples](https://github.com/RoyChng/customtkinter-examples)
+Inspired by (and based on the work of) [customtkinter-examples](https://github.com/RoyChng/customtkinter-examples)
 
 ![image text](https://github.com/Northstrix/customtkinter-sign-in-and-sign-up-forms/blob/master/Images/Sign%20in%20form.png)
 
