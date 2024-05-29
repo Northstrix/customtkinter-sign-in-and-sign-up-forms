@@ -1,0 +1,5 @@
+customtkinter V5.2.2
+pip install Pillow
+pip install pycryptodome
+numpy V1.26.4
+firebase_admin V6.5.0
